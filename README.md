@@ -24,3 +24,6 @@ Infine, è stata aggiunto un attributo ad ogni riga per associare ad ogni prodot
 Si è utilizzato il framework RASA (AI) per la realizzazione di un chatbot come supporto al cliente, nella fattispecie un chatbot che guidi l’utente nella scelta dei prodotti fra quelli venduti dall’azienda Mulino Bianco.
 Le funzionalità implementate (descritte nel Capitolo 3 di tale relazione) del chatbot sono rivolte principalmente ai prodotti della Mulino Bianco e di alcune delle sue controllate.
 Si potrebbe pensare come un possibile sviluppo futuro di ampliare il database dei prodotti, per estenderlo pure a quelli di altre aziende oltre che creare altre funzionalità più incentrate sulle informazioni nutrizionali.
+
+
+Ulteriori dettagli relativi alle analisi effettuate sono riportati nella seguente [relazione](https://github.com/ChiaraAmalia/ChatBotRasa/blob/main/Relazione_Chatbot_Rasa.pdf)
