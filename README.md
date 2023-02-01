@@ -1,2 +1,2 @@
 # ChatBotRasa
-Progetto per il corso di data science, dove si richiede la realizzazione di un chatbot.
+Progetto per il corso di Data Science, dedito alla realizzazione di un chatbot volto a fornire informazioni sui prodotti della mulino bianco.
